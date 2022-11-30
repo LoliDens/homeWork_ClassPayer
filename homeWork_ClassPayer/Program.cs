@@ -17,7 +17,6 @@ namespace homeWork_ClassPayer
             Player player = new Player(playerName, playerHealth, playerDamage);
 
             player.ShowInfo();
-
             Console.ReadKey();
         }
     }
